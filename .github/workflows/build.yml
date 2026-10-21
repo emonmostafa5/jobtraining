@@ -1,6 +1,7 @@
 name: Java CI with Security and Coverage
 # test
 on:
+#training
   push:
     branches:
       - main
