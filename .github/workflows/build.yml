@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - qa
 #adding qa branch
   pull_request:
     branches:
